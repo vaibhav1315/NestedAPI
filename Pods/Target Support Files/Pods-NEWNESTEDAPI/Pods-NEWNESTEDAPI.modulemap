@@ -1,0 +1,6 @@
+framework module Pods_NEWNESTEDAPI {
+  umbrella header "Pods-NEWNESTEDAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
